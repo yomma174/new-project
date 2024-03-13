@@ -10,7 +10,9 @@ namespace new_project
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HELL WORLD");
+            Console.WriteLine("Hello, world!");
+
+            Console.ReadKey();
         }
     }
 }
