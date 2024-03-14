@@ -10,6 +10,8 @@ namespace new_project
     {
         static void Main(string[] args)
         {
+            // second-branch-praktika-3.4
+            
             Console.WriteLine("Hello, world!");
 
             Console.ReadKey();
